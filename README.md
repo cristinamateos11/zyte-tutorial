@@ -14,7 +14,7 @@ cd web-scraping-tutorial
 python -m venv tutorial-env
 cd .\tutorial-env\
 ls
-
+cd ..
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 
 cd .\Scripts\
